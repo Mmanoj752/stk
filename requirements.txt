@@ -1,0 +1,6 @@
+numpy
+Cython
+scipy
+tqdm
+yahoo_fin
+scikit-learn
